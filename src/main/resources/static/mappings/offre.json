@@ -1,0 +1,19 @@
+{
+  "properties" : {
+    "id": {
+      "type": "keyword"
+    },
+    "type_contrat": {
+      "type": "text"
+    },
+    "agence": {
+      "type": "text"
+    },
+    "metier": {
+      "type": "text"
+    },
+    "intitule_post": {
+      "type": "text"
+    }
+  }
+}
